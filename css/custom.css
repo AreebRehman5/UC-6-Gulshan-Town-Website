@@ -124,3 +124,44 @@ h6.text-primary {
     text-align: center;
    
 }
+.appointment-form {
+    background-color: #444;
+}
+.form-control {
+    background-color: transparent;
+    color: #fff;
+}
+
+.btn-submit {
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}
+.appointment-form {
+    background-color: #007bff;
+    color: #fff;
+}
+.appointment-form .form-control {
+    background-color: #f8f9fa;
+    color: #000;
+}
+
+.appointment-form .submit-btn {
+    display: block;
+    margin: 0 auto;
+}
+.input-group .form-control {
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
+.input-field.submit-btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-align: center;
+}
+.form-separator {
+    margin-bottom: 20px;
+}
